@@ -9,13 +9,13 @@ $(function(){
 　　$(".back-blue").hide();
 })
 
-    $("#button03").on("click",fuction(){
+    $("#button03").on("click",function(){
         $("#box03,#box07").hide();
 
     })
 
-    $("button04").on("click",fuction(){
-        $("#.box").show();
+    $("#button04").on("click",function(){
+        $(".box").show();
     })
 
 })
